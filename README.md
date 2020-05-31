@@ -1,4 +1,4 @@
-# Pratik-s-Jarvis
+#Jarvis
 It's Jarvis using Python-3 Artificial Intelligence where you can easily download or Clone from here.
 
 Focus on pip install
