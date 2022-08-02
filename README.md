@@ -1,12 +1,11 @@
-#Jarvis
-It's Jarvis using Python-3 Artificial Intelligence where you can easily download or Clone from here.
+# Jarvis
+This is Jarvis. A personal AI assistant made using Python. 
 
-Focus on pip install
+Create a new `data.txt` file in the current folder.
 
-Create new data.txt file in jarvis's folder/ current folder.
+Also, change paths according to your pc.
 
-Also change paths acccording to your pc.
-
-Also in screenshot section Edit path //ss1 or according to your screenshot number.
-
-Thank you...!!!!
+> Edit the path according to your requirements:
+def screenshot():
+	 img = pyautogui.screenshot()
+	 `img.save("<Path here>")`
